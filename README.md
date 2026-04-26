@@ -40,5 +40,3 @@ To share your project with the world for free, follow these steps:
    - Set the `Branch` to `main` (or `master`).
    - Set the `Main file path` to `HeartApp.py`.
    - Click **Deploy!**
-
-In a few minutes, your app will be live, and you will get a shareable URL!
